@@ -1,5 +1,11 @@
 # IntentClassification
 
+#Create Virtual environment
+
+```virtualenv venv```
+#Activate the environment
+
+```source venv/bin/activate```
 
 Install the required dependencies into the virtual environment
 
