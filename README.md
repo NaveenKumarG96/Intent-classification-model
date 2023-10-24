@@ -13,7 +13,7 @@ Install the required dependencies into the virtual environment
 
 Run the uvicorn standard command to run the app.py --- to run the model with lstm classifier
 
-```uvicorn app:app --host 0.0.0.0 --port 8000 --reload```  
+```uvicorn app:app --host 0.0.0.0 --port 8000```  
 
 Use the browser and use this url for give the user query
 
