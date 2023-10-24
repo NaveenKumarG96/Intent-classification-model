@@ -32,7 +32,7 @@ Run the uvicorn standard command to run the appRoberta.py --- to run the model w
 
 
 
-# Training the model
+# Training the model -- for training purpose
 
 ```cd training```
 
