@@ -26,9 +26,9 @@ Use Postman POST api to check the intent of the statment -  use the below url fo
 
 # For running the model with roberta model.
 
-Run the uvicorn standard command to run the appRoberta.py --- to run the model with Roberta model 
+Run the uvicorn standard command to run the appRoberta.py --- to run the model with Roberta model   NOTE : please include this file in root directory to run the appRoberta.py ```https://drive.google.com/file/d/1VbgF4KTjWyYTRzrzJymRxQPUBUSN-XgT/view?usp=sharing``` 
 
-```uvicorn app:appRoberta --host 0.0.0.0 --port 8000 --reload``` 
+```uvicorn app:appRoberta --host 0.0.0.0 --port 8000```  
 
 
 
